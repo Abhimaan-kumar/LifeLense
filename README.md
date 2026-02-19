@@ -1,12 +1,9 @@
 # lifelens
 
-A new Flutter project.
+A voice controlled multi platform application for visually challenge person
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## Help
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
